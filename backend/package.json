@@ -1,0 +1,21 @@
+{
+  "name": "disrupthack",
+  "version": "1.0.0",
+  "description": "A disruptive idea for DisruptAI Hackathon 2019",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo $'No test provided'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://FlocaDEV@bitbucket.org/obucinas/disrupthack.git"
+  },
+  "author": "Team 1337",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/obucinas/disrupthack#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "unirest": "^0.6.0"
+  }
+}
